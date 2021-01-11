@@ -1,2 +1,4 @@
 ## Post on blog
-!(Cover of the Post)[https://i.imgur.com/kyMzN08.jpeg]
+Click to be redirected to the post:
+
+[![](https://i.imgur.com/kyMzN08.jpeg)](https://fgrattoni.github.io/2020-12-03-HabitDataEDA/)
